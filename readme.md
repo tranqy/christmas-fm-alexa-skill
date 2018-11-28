@@ -1,4 +1,4 @@
-# Christmas FM Alexa Skill
+# 🎄 Christmas FM Alexa Skill 🎄
 
 As a long time Chirstmas FM listener not being able to listen on home Echo was not going to work. Christmas FM is available via TuneIn, but TuneIn for Alexa is not free. 
 
@@ -27,3 +27,5 @@ Changed the Stream URL in the lambda function, troubleshot for a minute until I 
 Christmas FM is a charity station. Please direct all donations to Christmas FM's charity partner, Temple Street Children's University Hospital. 
 
 [Christmas FM Donation Page](https://www.templestreet.ie/Christmasfm/?utm_source=christmasfm.com&utm_medium=main_menu_link)
+
+🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄
